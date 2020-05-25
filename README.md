@@ -4,7 +4,10 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc.
 Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
-The tasks in this project was:
+# Getting started
+Make sure you use the "Udacity-env.txt" environment to avoid any errors.
+
+## The tasks in this project was:
 
 * Data wrangling, which consists of:
 *   Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
